@@ -17,7 +17,6 @@ var connection = mysql.createConnection({
 const CFonts = require('cfonts');
  
 CFonts.say('EMPLOYEE TRACKER', {
-    font: 'chrome',              // define the font face
     align: 'left',              // define text alignment
     colors:  ['cyanBright', 'yellowBright','redBright'],         // define all colors
     background: 'transparent',  // define the background color, you can also use `backgroundColor` here as key
