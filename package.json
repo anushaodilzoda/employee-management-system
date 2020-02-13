@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "A command line application that can be used to manage employee powered by MySQL database, Node.js with  inquirer.",
+  "main": "index.js",
+  "dependencies": {
+    "cfonts": "^2.4.8",
+    "console-table-printer": "^1.1.52",
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anushaodilzoda/employee-managment-.git"
+  },
+  "author": "Anusha Odilzoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anushaodilzoda/employee-managment-.git"
+  },
+  "homepage": "https://github.com/anushaodilzoda/employee-managment-.git"
+}
