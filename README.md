@@ -28,7 +28,7 @@ This command-line application can do the followings:
 - [DB Structure for MySQL Tables](#DB-Structure)
 - [Technologies](#Technologies)
 - [Author](#Author)
-- [Acknowledgments](#Acknowledgments)
+
 
 ## Description
 
@@ -87,4 +87,3 @@ npm i
 
 * **Anusha Odilzoda**
 
-## Acknowledgments
